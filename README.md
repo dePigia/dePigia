@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**pigiaminogames/pigiaminogames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Pigia]**, an indie game developer based in Italy.
 
-Here are some ideas to get you started:
+I am a lover of programming and game design, that is, the structure of every video game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m diving deep into the **Godot Game Engine** and the **GDScript**. 
+I often find myself creating small games for small game jams with the aim of having fun and learning more about game development.
+
+My favorite tools are godot, asesprite, goxel, and milanote
+
+For me, video games are not just a passion. They are a true art form.
+
+Fun Facts:
+* I’m a huge music lover, expecialy metal music
+* My coding is powered by coke
+* **Hobbies:** manga, videogames, guitar
+
+Email: [amsalvadori49@gmail.com]

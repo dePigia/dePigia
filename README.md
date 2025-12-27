@@ -12,7 +12,7 @@ My favorite tools are godot, asesprite, goxel, and milanote
 For me, video games are not just a passion. They are a true art form.
 
 Fun Facts:
-* I’m a huge music lover, expecialy metal music
+* I’m a huge music lover, expecialy extreme metal music
 * My coding is powered by coke and coffee 
 * **Hobbies:** manga, videogames, guitar and gdr
 

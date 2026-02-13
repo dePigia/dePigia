@@ -1,4 +1,4 @@
-## Hello there! 👋
+## Hello there! 👋🤌
 
 I'm **Pigia**, an indie game developer based in Italy.
 

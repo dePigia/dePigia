@@ -9,7 +9,7 @@ I often find myself creating small games for small game jams with the aim of hav
 
 My favorite tools are godot, libresprite, jsfxr and bosca ceoil blue
 
-For me, video games are not just a passion. They are a true art form.
+Now i'm also creating a game engine, the Flint Engine, just for fun.
 
 Fun Facts:
 * I’m a huge music lover, expecialy extreme metal music
